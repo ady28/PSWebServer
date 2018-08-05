@@ -1,0 +1,1 @@
+New-Item -Path '\\SRV01\C$' -Name 'RemDir' -ItemType Directory -Force

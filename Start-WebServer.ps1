@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy RemoteSigned -File C:\WebApi\WebServer.ps1
